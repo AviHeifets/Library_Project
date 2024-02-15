@@ -1,0 +1,3796 @@
+{
+  "$type": "System.Collections.Generic.Dictionary`2[[System.Double, System.Private.CoreLib],[System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib]], System.Private.CoreLib",
+  "321": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 23,
+        "Isbn": 321.0,
+        "Id": 0,
+        "Name": "TestItem",
+        "Author": "Test",
+        "Price": 23.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": []
+        },
+        "AddedToLibrary": "2023-08-20T11:15:27.8399417+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      }
+    ]
+  },
+  "1235141": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 1,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 2,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 3,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 4,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 5,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 6,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 7,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 8,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 9,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 10,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 11,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 12,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 13,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 14,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 15,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 16,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 17,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 18,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 19,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 20,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 21,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 22,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 23,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 24,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 25,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 26,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 27,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 28,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 29,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 30,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 31,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 32,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 33,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 34,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 35,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 36,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 37,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 38,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 39,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 40,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 41,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 42,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 43,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 44,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 45,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 46,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 47,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 48,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 49,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 50,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 51,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 52,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 53,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 54,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 55,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 56,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 57,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 58,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 59,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 60,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 61,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 62,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 63,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 64,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 65,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 66,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 67,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 68,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 69,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 70,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 71,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 72,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 73,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 74,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 75,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 76,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 77,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 78,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 79,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 80,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 81,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 82,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 83,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 84,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 85,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 86,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 87,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 88,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 89,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 90,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 91,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 92,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 93,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 94,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 95,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 96,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 97,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 98,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 99,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2003,
+        "Isbn": 1235141.0,
+        "Id": 100,
+        "Name": "Harry Potter - the stone",
+        "Author": "Jk Rowling",
+        "Price": 29.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            5,
+            10,
+            16,
+            26
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:06:41.3175773+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      }
+    ]
+  },
+  "12384153": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 101,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 102,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 103,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 104,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 105,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 106,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 107,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 108,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 109,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 110,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 111,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 112,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 113,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 114,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 115,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 116,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 117,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 118,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 119,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 120,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 121,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 122,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 123,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 124,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      },
+      {
+        "$type": "Models.Models.Journal, BookLib",
+        "Volume": 7.0,
+        "PublishDate": "1997-01-01T00:00:00",
+        "Isbn": 12384153.0,
+        "Id": 125,
+        "Name": "Spider man",
+        "Author": "Marvel",
+        "Price": 15.49,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            7,
+            0,
+            11
+          ]
+        },
+        "AddedToLibrary": "2023-08-26T18:07:40.5369913+03:00",
+        "IsAvalible": true,
+        "Discount": 0.0
+      }
+    ]
+  },
+  "123": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": []
+  },
+  "3241": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": []
+  },
+  "9788809877245": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 126,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27,
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 127,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 128,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 129,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 130,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 131,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 132,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 133,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 134,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 135,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 136,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 137,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 138,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 139,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 140,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 141,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 142,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 143,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 144,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 145,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 146,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 147,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 148,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 149,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 150,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 151,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 152,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 153,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 154,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 155,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 156,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 157,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 158,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 159,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 160,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 161,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 162,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 163,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 164,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 1872,
+        "Isbn": 9788809877245.0,
+        "Id": 165,
+        "Name": "Around the world in 80 days",
+        "Author": "Jules Verne",
+        "Price": 89.9,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            27
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T11:47:05.0664692+03:00",
+        "IsAvalible": true,
+        "Discount": 20.0
+      }
+    ]
+  },
+  "9780194229647": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 166,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 167,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 168,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 169,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 171,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 172,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 173,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 174,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 175,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 176,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 177,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 178,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 179,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 180,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 181,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 182,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 183,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      },
+      {
+        "$type": "Models.Models.Book, BookLib",
+        "PublishYear": 2010,
+        "Isbn": 9780194229647.0,
+        "Id": 184,
+        "Name": "Alice In Wonderland",
+        "Author": "Lewis Carroll",
+        "Price": 200.0,
+        "Catagories": {
+          "$type": "System.Collections.Generic.List`1[[Models.Helpers.Catagory, BookLib]], System.Private.CoreLib",
+          "$values": [
+            11,
+            10,
+            28,
+            29
+          ]
+        },
+        "AddedToLibrary": "2023-09-05T12:09:27.5134402+03:00",
+        "IsAvalible": true,
+        "Discount": 10.0
+      }
+    ]
+  },
+  "26": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": []
+  },
+  "437589875": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": []
+  },
+  "1235678": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": []
+  },
+  "124356": {
+    "$type": "System.Collections.Generic.List`1[[Models.Models.AbstractItem, BookLib]], System.Private.CoreLib",
+    "$values": []
+  }
+}

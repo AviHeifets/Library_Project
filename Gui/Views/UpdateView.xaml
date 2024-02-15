@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="Gui.Views.UpdateView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Gui.Views"  xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" xmlns:viewmodels="clr-namespace:ViewModels.ViewModels;assembly=ViewModels" d:DataContext="{d:DesignInstance Type=viewmodels:UpdateViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid >
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition MinHeight="60" MaxHeight="100"/>
+            <RowDefinition MinHeight="60" MaxHeight="100"/>
+            <RowDefinition MinHeight="60" MaxHeight="100"/>
+            <RowDefinition MinHeight="60" MaxHeight="100"/>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Update" FontSize="50" Foreground="Gray"  FontFamily="Comic Sans MS" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" />
+
+
+        <Label Content="Name" FontSize="14" Grid.Column="1" Grid.Row="1" HorizontalAlignment="left" VerticalAlignment="top" Margin="0,0,0,0"/>
+        <TextBox Style="{StaticResource DarkInputBox}" Height="27" Width="225" Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}" x:Name="Name" Grid.Column="1" Grid.Row="1" HorizontalAlignment= "Center" VerticalAlignment="Top" Margin="0,27,27,0" Background="Transparent"/>
+
+        <Label Content="Author" FontSize="14" Grid.Column="1" Grid.Row="2" HorizontalAlignment="left" VerticalAlignment="top" Margin="0,0,0,0"/>
+        <TextBox Style="{StaticResource DarkInputBox}" Height="27" Width="225" Text="{Binding Author, UpdateSourceTrigger=PropertyChanged}" x:Name="Author" Grid.Column="1" Grid.Row="2" HorizontalAlignment= "Center" VerticalAlignment="Top" Margin="0,27,27,0" Background="Transparent"/>
+
+        <Label Content="Price" FontSize="14" Grid.Column="1" Grid.Row="3" HorizontalAlignment="left" VerticalAlignment="top" Margin="0,0,0,0"/>
+        <TextBox Style="{StaticResource DarkInputBox}" Height="27" Width="225" Text="{Binding Price, UpdateSourceTrigger=PropertyChanged}" x:Name="Price" Grid.Column="1" Grid.Row="3" HorizontalAlignment= "Center" VerticalAlignment="Top" Margin="0,27,27,0" Background="Transparent"/>
+
+        <Label Content="Discount" FontSize="14" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="top" Margin="20,0,150,0"/>
+        <TextBox Style="{StaticResource DarkInputBox}" Height="27" Width="225" Text="{Binding Discount, UpdateSourceTrigger=PropertyChanged}" x:Name="Discount" Grid.Column="2" Grid.Row="1" HorizontalAlignment= "Center" VerticalAlignment="Top" Margin="27,27,0,0" Background="Transparent"/>
+
+        <Label x:Name="CatagoriesLabel" Content="Catagories" FontSize="14" Grid.Column="2" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="top" Margin="20,0,150,0"/>
+        <xctk:CheckComboBox x:Name="Catagories" Grid.Column="2" Width="220"  Height="30" Grid.Row="2" HorizontalAlignment= "Center" VerticalAlignment="Top" Margin="27,27,0,0"  ItemsSource="{Binding Options}"  DisplayMemberPath="."  SelectedItemsOverride="{Binding Catagories}" Background="{StaticResource TextBrush}">
+            <xctk:CheckComboBox.Resources>
+                <Style TargetType="Border" >
+                    <Setter Property="CornerRadius" Value="12"/>
+                </Style>
+            </xctk:CheckComboBox.Resources>
+        </xctk:CheckComboBox>
+
+        <Label x:Name="VolumeLabel" Content="Volume"  FontSize="14" Grid.Column="2" Grid.Row="3" HorizontalAlignment="left" VerticalAlignment="top" Margin="20,0,50,0" Visibility="{Binding IsBook, Converter={StaticResource BooleanToVisibilityConverterInverse}}"/>
+        <TextBox Style="{StaticResource DarkInputBox}" Height="27" Width="225" Text="{Binding Volume, UpdateSourceTrigger=PropertyChanged}" x:Name="Volume" Grid.Column="2" Grid.Row="3" HorizontalAlignment= "Center" VerticalAlignment="Top" Margin="27,27,0,0" Visibility="{Binding IsBook, Converter={StaticResource BooleanToVisibilityConverterInverse}}" Background="Transparent" />
+
+        <Button Style="{StaticResource RoundButton}" x:Name="UpdateBtn" Width="90" Height="35" FontSize="18" Content="Update" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="6" HorizontalAlignment="Center" VerticalAlignment="Center" Command="{Binding UpdateBtn}" />
+
+        <Button Style="{StaticResource RoundButton}" x:Name="ReturnBtn" Width="80" Height="30" FontSize="16" Content="Return" Grid.Column="0"  Grid.Row="6" HorizontalAlignment="Right" VerticalAlignment="Center" Command ="{Binding ReturnBtn}"/>
+    </Grid>
+</UserControl>
